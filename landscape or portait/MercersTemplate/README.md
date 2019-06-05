@@ -1,2 +1,0 @@
-# swaping-variables
-JavaScript
